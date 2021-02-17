@@ -1,4 +1,4 @@
-# HostnameResolver
+# DDoS
 Easy to use DDoSing tool with random ip and port spoofing.
 
 # Compiling and Running
